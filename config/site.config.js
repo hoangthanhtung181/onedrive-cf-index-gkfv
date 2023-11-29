@@ -48,7 +48,7 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'GKFV',
+      name: 'GK Finechem Vietnam Co.,Ltd',
       link: 'hhttp://gkfinechem-vn.com/',
     },
   ],
