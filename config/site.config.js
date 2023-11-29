@@ -49,7 +49,7 @@ module.exports = {
   links: [
     {
       name: 'GK Finechem Vietnam Co.,Ltd',
-      link: 'https://gkfinechem-vn.com/',
+      link: 'http://gkfinechem-vn.com/',
     },
   ],
 
